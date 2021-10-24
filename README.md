@@ -4,16 +4,25 @@ I'm Agustin Ecker, International Business graduate and full stack web developer 
 
 **Languages**
 
-<code><img height="30" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/js.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/js.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/python.png"></code>
 
 **Front-end**
 
-<code><img height="30" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/css3.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/reactjs.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/html.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/css3.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/reactjs.png"></code>
 
 **Back-end**
 
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/postgresql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/mysql.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/nodejs.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/express.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/postgresql.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/mysql.svg"></code>
+
+**Other**
+
+<code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/git.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/webpack.png"></code>
+
+
