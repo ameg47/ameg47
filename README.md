@@ -9,7 +9,7 @@ I'm Agustin Ecker, International Business graduate and full stack web developer 
 
 **Front-end**
 
-<code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/html.png"></code>
+
 <code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/css3.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/reactjs.png"></code>
 
