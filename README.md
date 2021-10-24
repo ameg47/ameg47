@@ -9,15 +9,15 @@ I'm Agustin Ecker, International Business graduate and full stack web developer 
 
 **Front-end**
 
-
+<code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/html.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/css3.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/reactjs.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/react.png"></code>
 
 **Back-end**
 
 <code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/nodejs.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/express.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/postgresql.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/postgres.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/mysql.svg"></code>
 
 **Other**
