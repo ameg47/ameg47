@@ -27,6 +27,17 @@ I'm Agustin Ecker, International Business graduate and full stack web developer 
 <code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/git2.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/webpack.png"></code>
 
+## 🚀 Check my work - Latam Exponential:
+
+Web-App for connecting professionals with clients so they can offer their services through the platform.
+
+Technologies used: React, Redux, Tailwind CSS, Express, NodeJs, MongoDB
+
+<img align="left" width= "350px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/home.jpeg />
+<img align="center" width= "350px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/catalog.jpeg />
+<img align="left" width= "350px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/perfil.jpeg />
+<img align="center" width= "350px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/mobile.jfif />
+
 ## :mailbox: How to reach me:
 <span >
 <a href="https://www.linkedin.com/in/agustinecker-dev/" ><img width="5%" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/linkedin.png"> &nbsp;
