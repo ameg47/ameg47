@@ -37,7 +37,7 @@ Technologies used: React, Redux, Tailwind CSS, Express, NodeJs, MongoDB
 <img align="center" width= "400px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/catalog.jpeg" />
 <img align="left" width= "400px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/perfil.jpeg" />
 <img align="center" width= "400px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/admin.jpeg" />
-<img align="left" width= "350px" height="300px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/mobile.jfif" />
+<img align="center" width= "350px" height="300px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/mobile.jfif" />
 
 ## :mailbox: How to reach me:
 <span >
