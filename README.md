@@ -33,11 +33,11 @@ Web-App for connecting professionals with clients so they can offer their servic
 
 Technologies used: React, Redux, Tailwind CSS, Express, NodeJs, MongoDB
 
-<code><img align="left" width= "350px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/home.jpeg" /></code>
-<code><img align="center" width= "350px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/catalog.jpeg" /></code>
-<code><img align="left" width= "350px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/perfil.jpeg" /></code>
-<code><img align="left" width= "350px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/admin.jpeg" /></code>
-<code><img align="center" width= "350px" height="300px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/mobile.jfif" /></code>
+<img align="left" width= "400px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/home.jpeg" />
+<img align="center" width= "400px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/catalog.jpeg" />
+<img align="left" width= "400px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/perfil.jpeg" />
+<img align="center" width= "400px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/admin.jpeg" />
+<img align="left" width= "350px" height="300px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/mobile.jfif" />
 
 ## :mailbox: How to reach me:
 <span >
