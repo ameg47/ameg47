@@ -27,7 +27,9 @@ I'm Agustin Ecker, International Business graduate and full stack web developer 
 <code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/git2.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/webpack.png"></code>
 
-## 🚀 Check my work - Latam Exponential:
+## 🚀 Check my work:
+
+# Latam Exponential:
 
 Web-App for connecting professionals with clients so they can offer their services through the platform.
 
@@ -38,6 +40,13 @@ Technologies used: React, Redux, Tailwind CSS, Express, NodeJs, MongoDB
 <img align="left" width= "400px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/perfil.jpeg" />
 <img align="center" width= "400px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/admin.jpeg" />
 <img align="center" width= "350px" height="300px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/mobile.jfif" />
+
+# Hacker News:
+
+Single page application built in React consuming the REST API Hacker News. Shows a list of news linking to its source and allows to add them as Favorites.
+
+<img align="left" width= "400px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/Home.jpg" />
+<img align="center" width= "400px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/Favs.jpg" />
 
 ## :mailbox: How to reach me:
 <span >
