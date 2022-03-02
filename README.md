@@ -1,6 +1,6 @@
 <h1>Hey there! 👋</h1>
 
-I'm Agustin Ecker, International Business graduate and full stack web developer student 👨🏻‍💻. As a problem solver and logical thinker I like facing and finding solutions to the problems that programming throws at you. I´m always eager to learn new things and get the chance to master new technologies 👀 
+I'm Agustin Ecker, International Business graduate and full stack web developer👨🏻‍💻. As a problem solver and logical thinker I like facing and finding solutions to the problems that programming throws at you. I´m always eager to learn new things and get the chance to master new technologies 👀 
 
 ## 👉 Languages and tools:
 **Languages**
