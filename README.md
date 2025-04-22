@@ -1,56 +1,55 @@
-<h1>Hey there! 👋</h1>
+<h1 align="center">Hey, I'm Agustin 👋</h1>
 
-I'm Agustin Ecker, International Business graduate and full stack web developer👨🏻‍💻. As a problem solver and logical thinker I like facing and finding solutions to the problems that programming throws at you. I´m always eager to learn new things and get the chance to master new technologies 👀 
+<p align="center">
+  Backend-leaning Full Stack Developer | Javascript, Typescript, Node.js, NestJS, SQL
+</p>
 
-## 👉 Languages and tools:
-**Languages**
+---
 
-<code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/js.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/python.png"></code>
+I'm a full stack developer with a backend focus, currently building scalable systems at [Glui](https://glui.io) 🌐. My experience spans across fast-paced startups and remote, multicultural teams. I’m passionate about clean architecture, developer experience, and building tools that actually help people.
 
-**Front-end**
+I’ve worked on everything from internal DevEx tooling to payroll systems and ad campaign management platforms.
 
-<code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/html.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/css3.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/react.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/redux.png"></code>
+### 🧠 Tech I Work With
 
-**Back-end**
+**Languages & Frameworks**  
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original-wordmark.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
 
-<code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/nodejs.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/express.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/postgres.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/mysql.svg"></code>
+**Databases & Infra**  
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
 
-**Other**
+---
 
-<code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/git2.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/webpack.png"></code>
+### 🛠️ Experience Highlights
 
-## 🚀 Check my work:
+**Glui**  
+*Backend Software Developer*  
+*Oct 2024 – Present*  
+- Building backend APIs for campaign and user role management  
+- Designing and implementing scalable services with NestJS and Postgres  
 
-# Latam Exponential:
+**Clipboard Health**  
+*Mid-level → Junior Software Engineer*  
+*May 2022 – Feb 2024*  
+- Developed features across Timekeeping, Scheduling, and Payroll services  
+- Maintained and improved microservice scaffolding tools and test automation  
+- Collaborated across time zones in a fully remote setup  
 
-Web-App for connecting professionals with clients so they can offer their services through the platform.
+---
 
-Technologies used: React, Redux, Tailwind CSS, Express, NodeJs, MongoDB
+### 📫 Get in touch
 
-<img align="left" width= "400px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/home.jpeg" />
-<img align="center" width= "400px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/catalog.jpeg" />
-<img align="left" width= "400px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/perfil.jpeg" />
-<img align="center" width= "400px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/admin.jpeg" />
-<img align="center" width= "350px" height="300px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/mobile.jfif" />
+<a href="https://www.linkedin.com/in/agustinecker-dev/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
+</a>
+<a href="mailto:amecker@hotmail.com"><img src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/email.png" width="30" /></a>
 
-# Hacker News:
+---
 
-Single page application built in React consuming the REST API Hacker News. Shows a list of news linking to its source and allows to add them as Favorites.
-
-<img align="left" width= "400px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/Home.jpg" />
-<img align="center" width= "400px" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/Favs.jpg" />
-
-## :mailbox: How to reach me:
-<span >
-<a href="https://www.linkedin.com/in/agustinecker-dev/" ><img width="5%" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/linkedin.png"> &nbsp;
-<a href="mailto:amecker@hotmail.com" ><img width="5%" src="https://raw.githubusercontent.com/ameg47/ameg47/master/images/email.png">
-</span>
-
+*Thanks for stopping by! Always open to connect or collaborate*
